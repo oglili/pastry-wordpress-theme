@@ -7,15 +7,56 @@
     <img src="/img/logo.svg" alt="Screenshot" style="border-radius: 9999px;">
   </a>
 
-  <h3 align="center">Og's Cakes N' More | WordPress Website</h3>
+<h3 align="center">Og's Cakes N' More | WordPress Website</h3>
 
 ## Table of contents
+<details open="open">
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Usage](#usage)
 * [Illustrations](#illustrations)
 * [Link](#illustrations)
 * [Contributing](#contributing)
+</details>
+
+## General info
+The New York Times web app is an American daily newspaper based in New York City. This application is a clone application of the New York Times using three (3) of the nytimes api (Article Search API, Most Popular API and Top Stories API).
+	
+## Technologies
+Project is created with:
+* React
+* JavaScript
+* HTML
+* CSS
+* Tailwindcss
+	
+## Usage
+*  Use git clone to clone the repository.
+*  Install required dependencies with npm install.
+*  Run the server with npm start
+The Homepage displays the fetched data showing Live news and top stories which clicking on any link opens up the page of the link. The search icon opens up the search page when clicked and entrying any word in the search bar displays all related news.
+
+## Illustrations
+![Initial Screen](src/nytimes-page1.jpg)    ![Search Screen](src/nytimes-page2.jpg)
+
+## Links
+Link to App:
+https://oglili.github.io/nytimes/
+Link to Github:
+https://github.com/oglili/nytimes
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+
+
+
+
+
+
+
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
