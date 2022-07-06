@@ -41,7 +41,7 @@ This is a **WordPress Theme** design for a pastry shop online.
 Link to App:
 https://oglili.github.io/nytimes/
 Link to Github:
-https://github.com/oglili/nytimes
+https://github.com/oglili/pastry-wordpress-theme
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
