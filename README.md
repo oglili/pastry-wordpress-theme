@@ -20,10 +20,10 @@
 ## General info
 This is a **WordPress Theme** design for a pastry shop online.
 	
-## Technologies
-This theme is created with:
-* Understrap
-* Wordpress
+## Built With
+- [Bootstrap](https://getbootstrap.com)
+- [Wordpress](https://wordpress.org)
+
 	
 ## Usage
 *  Use git clone to clone the repository.
