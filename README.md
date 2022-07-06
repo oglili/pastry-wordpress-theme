@@ -21,7 +21,7 @@
 This is a **WordPress Theme** design for a pastry shop online.
 	
 ## Technologies
-- [Bootstrap](https://getbootstrap.com)
+- [Understrap](https://understrap.com)
 - [Wordpress](https://wordpress.org)
 
 	
