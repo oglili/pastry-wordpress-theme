@@ -10,6 +10,17 @@
   <h3 align="center">Og's Cakes N' More | WordPress Website</h3>
 
   
+	# Nytimes app
+A clone application of the New York Times websites.
+
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Usage](#usage)
+* [Illustrations](#illustrations)
+* [Link](#illustrations)
+* [Contributing](#contributing)
+
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
