@@ -7,18 +7,9 @@
     <img src="/img/logo.svg" alt="Screenshot" style="border-radius: 9999px;">
   </a>
 
-  <h3 align="center">Og Cakes N' More | WordPress Website</h3>
+  <h3 align="center">Og's Cakes N' More | WordPress Website</h3>
 
-  <p align="center">
-    Project created for WordPress Super Guide
-    <br />
-    <br />
-    <a href="https://canostra.000webhostapp.com/">Live Demo</a>
-    ·
-    <a href="https://github.com/matteo-minerva/wordpress-canostra/issues">Report Bug</a>
-  </p>
-</p>
-
+  
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
