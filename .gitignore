@@ -12,7 +12,6 @@
 *.log
 *.orig
 *.rej
-*.zip
 
 # Ignore all files and directories starting with . or ~ or ._ or ending with ~
 .*
