@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="/img/logo.png" alt="Screenshot" style="border-radius: 9999px;">
+    <img src="/img/logo.svg" alt="Screenshot" style="border-radius: 9999px;">
   </a>
 
   <h3 align="center">Ca'Nostra | WordPress Website</h3>
