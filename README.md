@@ -10,25 +10,20 @@
 <h3 align="center">Og's Cakes N' More | WordPress Website</h3>
 
 ## Table of contents
-<details open="open">
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Usage](#usage)
 * [Illustrations](#illustrations)
 * [Link](#illustrations)
 * [Contributing](#contributing)
-</details>
 
 ## General info
-The New York Times web app is an American daily newspaper based in New York City. This application is a clone application of the New York Times using three (3) of the nytimes api (Article Search API, Most Popular API and Top Stories API).
+This is a **WordPress Theme** design for a pastry shop online.
 	
 ## Technologies
-Project is created with:
-* React
-* JavaScript
-* HTML
-* CSS
-* Tailwindcss
+This theme is created with:
+* Understrap
+* Wordpress
 	
 ## Usage
 *  Use git clone to clone the repository.
@@ -58,24 +53,8 @@ Please make sure to update tests as appropriate.
 
 
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
-</details>
 
-<!-- ABOUT THE PROJECT -->
+
 
 ## About The Project
 
