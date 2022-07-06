@@ -20,16 +20,19 @@
 ## General info
 This is a **WordPress Theme** design for a pastry shop online.
 	
-## Built With
+## Technologies
 - [Bootstrap](https://getbootstrap.com)
 - [Wordpress](https://wordpress.org)
 
 	
 ## Usage
-*  Use git clone to clone the repository.
+*  Download and install [Wordpress](https://wordpress.org) to your local machine or server.
+*  Use git clone to clone the repository or
+*  Download the zip file.
+*  Log into Wordpress and Install the zip file as a new theme under Appearance in Wordpress Dashboard then activate it.
+*  To edit the theme, open editor of your choice. 
 *  Install required dependencies with npm install.
-*  Run the server with npm start
-The Homepage displays the fetched data showing Live news and top stories which clicking on any link opens up the page of the link. The search icon opens up the search page when clicked and entrying any word in the search bar displays all related news.
+*  Run the server with npm run watch.
 
 ## Illustrations
 ![Initial Screen](src/nytimes-page1.jpg)    ![Search Screen](src/nytimes-page2.jpg)
