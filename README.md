@@ -7,7 +7,7 @@
     <img src="/img/logo.svg" alt="Screenshot" style="border-radius: 9999px;">
   </a>
 
-  <h3 align="center">Ca'Nostra | WordPress Website</h3>
+  <h3 align="center">Og Cakes N' More | WordPress Website</h3>
 
   <p align="center">
     Project created for WordPress Super Guide
